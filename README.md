@@ -44,7 +44,7 @@ URLRedirector/
 
 1. Clone or download this repository to your local computer:
    ```bash
-   d:\Developper\AI_WKS\URLRedirector
+   ~URLRedirector
    ```
 2. Open **Google Chrome** and navigate to `chrome://extensions`.
 3. Enable **Developer mode** using the toggle switch in the top-right corner.
